@@ -1,0 +1,2 @@
+This time to check the commits and conflicts
+to understand how conflits works and  how ro resolve those
